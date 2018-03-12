@@ -1,2 +1,3 @@
 # prova-github
-Proviamo a usare GitHub. :-)
+
+File creato per non lasciare il repo vuoto.
